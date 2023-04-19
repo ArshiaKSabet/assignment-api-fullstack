@@ -19,5 +19,5 @@ Next, to run the app, simply run `npm run dev` in the root directory. This will 
 
 
 
-If both the server and the frontend-application is live, you can open the webpage with the correct adress (should be: http://localhost:5173/). You should be able to see the category tree rendered out, clicking on of the categories/subcategories should redirect you to the specific category page where the next children(if there are any) should be rendered out again.
+If both the server and the frontend-application is live, you can open the webpage with the correct adress (should be: http://localhost:5173/). API is running at http://localhost:3001/. You should be able to see the category tree rendered out, clicking on of the categories/subcategories should redirect you to the specific category page where the next children(if there are any) should be rendered out again.
 
