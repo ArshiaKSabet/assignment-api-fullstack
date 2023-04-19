@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "name": "Casual",
+      "description": "Casual clothing for everyday wear",
+      "children": [
+        {
+          "id": 2,
+          "name": "Tops",
+          "description": "Casual tops for everyday wear",
+          "children": [
+            {
+              "id": 4,
+              "name": "T-Shirts",
+              "description": "Casual T-shirts for everyday wear",
+              "children": []
+            },
+            {
+              "id": 5,
+              "name": "Sweaters",
+              "description": "Casual sweaters for everyday wear",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Bottoms",
+          "description": "Casual bottoms for everyday wear",
+          "children": [
+            {
+              "id": 6,
+              "name": "Jeans",
+              "description": "Casual jeans for everyday wear",
+              "children": []
+            },
+            {
+              "id": 7,
+              "name": "Shorts",
+              "description": "Casual shorts for everyday wear",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Formal",
+      "description": "Formal clothing for special occasions",
+      "children": [
+        {
+          "id": 9,
+          "name": "Tops",
+          "description": "Formal tops for special occasions",
+          "children": [
+            {
+              "id": 11,
+              "name": "Blouses",
+              "description": "Formal blouses for special occasions",
+              "children": []
+            },
+            {
+              "id": 12,
+              "name": "Shirts",
+              "description": "Formal shirts for special occasions",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Bottoms",
+          "description": "Formal bottoms for special occasions",
+          "children": [
+            {
+              "id": 13,
+              "name": "Dress Pants",
+              "description": "Formal dress pants for special occasions",
+              "children": []
+            },
+            {
+              "id": 14,
+              "name": "Skirts",
+              "description": "Formal skirts for special occasions",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]

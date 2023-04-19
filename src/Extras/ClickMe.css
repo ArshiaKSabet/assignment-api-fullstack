@@ -1,0 +1,29 @@
+.box {
+    background-color: #003827;
+    padding: 50px;
+    margin-top: 10px;
+    border-radius: 10px;
+  }
+
+  .wrong-answer{
+    text-decoration: line-through;
+    color: red;
+  }
+
+  .correct-answer{
+    font-weight: bold;
+  }
+
+  .question{
+    font-weight: bold;
+  }
+
+  .click{
+    background-color: #fef880;
+    border: #fef880;
+    color: black;
+  }
+
+  span{
+    color: white;
+  }
