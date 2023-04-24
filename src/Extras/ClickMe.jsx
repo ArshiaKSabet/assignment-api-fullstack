@@ -22,7 +22,7 @@ function ClickMe() {
         </p>
         <p ><span className="wrong-answer">What I answered: "I think there is an attribute called line-spacing.."</span><span className="emoji">🤯</span>
           </p>
-        <p><span className="correct-answer">What I should've answered: </span> The nested elements such as divs(example), creates an indentation effect where each nested element is a part of the hierarchy.
+        <p><span className="correct-answer">What I should've answered: </span> The nested elements, creates an indentation effect where each nested element is a part of the hierarchy.
           </p>
 
           </span>
